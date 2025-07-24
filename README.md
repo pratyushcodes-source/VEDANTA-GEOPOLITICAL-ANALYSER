@@ -1,14 +1,15 @@
 
 # Geopolitical Analyser for Vedanta IAS Academy
 
-![Header Screenshot](https://raw.githubusercontent.com/username/repo/main/screenshots/header.png) 
-*Note: You will need to add your own screenshots to the repository.*
+
 
 The **Geopolitical Analyser** is a sophisticated, AI-powered web application designed specifically for UPSC (Union Public Service Commission) aspirants. Powered by the Google Gemini API, this tool provides instant, in-depth analysis of any geopolitical topic, helping students streamline their preparation for the civil services examination.
 
 This project was developed for the **Vedanta IAS Academy** to provide their students with a cutting-edge study tool.
 
-**Live Demo:** [Link to your deployed application]
+**Live Demo:** 
+
+
 
 ---
 
@@ -29,7 +30,7 @@ This project was developed for the **Vedanta IAS Academy** to provide their stud
 
 ## 📸 Screenshots
 
-**(You should replace these with actual screenshots of your application)**
+
 
 **Landing Page:**
 ![Landing Page](https://raw.githubusercontent.com/username/repo/main/screenshots/landing.png)
@@ -121,6 +122,4 @@ The codebase is organized into logical directories to maintain clarity and separ
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
