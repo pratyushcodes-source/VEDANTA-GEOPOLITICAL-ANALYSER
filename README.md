@@ -64,7 +64,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 *   Node.js and npm (or yarn)
 *   A modern web browser
-*   A Google Gemini API Key. You can get one from [Google AI Studio](https://makersuite.google.com/app/apikey).
+*   A Google Gemini API Key. 
 
 ### Installation
 
