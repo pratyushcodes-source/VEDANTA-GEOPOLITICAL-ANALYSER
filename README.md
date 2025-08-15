@@ -8,6 +8,7 @@ The **Geopolitical Analyser** is a sophisticated, AI-powered web application des
 This project was developed for the **Vedanta IAS Academy** to provide their students with a cutting-edge study tool.
 
 **Live Demo:** 
+vedanta-geopolitical-analyser.vercel.app
 
 
 
@@ -28,17 +29,10 @@ This project was developed for the **Vedanta IAS Academy** to provide their stud
 
 ---
 
-## 📸 Screenshots
 
 
 
-**Landing Page:**
-![Landing Page](https://raw.githubusercontent.com/username/repo/main/screenshots/landing.png)
 
-**Analysis View:**
-![Analysis Page](https://raw.githubusercontent.com/username/repo/main/screenshots/analysis.png)
-
----
 
 ## 🛠️ Tech Stack
 
